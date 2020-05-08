@@ -1,0 +1,121 @@
+body {
+     background-image: url(https://images.newscientist.com/wp-content/uploads/2020/02/11165812/c0481846-wuhan_novel_coronavirus_illustration-spl.jpg);background-size: 70% 100%;
+font-family: "Montserrat";
+}
+
+#title {
+     background-color: #ff4c68;
+     color: #fff;
+}
+
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.imageson{
+    width: 60%;
+  
+}
+em{
+    color: #ffff;
+}
+h3{
+    color:#ff4c68;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 2rem;
+    opacity: 20;
+    font-family: "Montserrat - bold";
+}
+
+#Testimonials{
+padding: 7% 15%;
+text-align: center;
+background-color: #ef8172;
+color: #ffff;
+}
+
+.signs{
+width: 15%;
+margin: 20px 20px 50px;
+}
+
+.testimonal-page{
+width: 15%;
+border-radius: 100%;
+margin: 20px;
+}
+
+#symptoms{
+background-color: #ef8172;
+text-align: center;
+padding-top: 3%;
+}
+
+p{
+    color: #ffff;
+    opacity: 6;
+    text-align: center;
+}
+
+.parameter{
+    color: gray;
+}
+h2{
+    color: #fff;
+    font-family: "Montserrat -bold";
+    line-height: 1,5;
+    font-size: 3rem;
+}
+#footer{
+    padding 7% 15%;
+}
+
+
+h1 {
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.new-color{
+    color: #fff;
+    font-family: "Montserrat -Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.navbar-brand{
+    font-family: Ubuntu;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.download-button{
+    margin: 5% 3% 5% 0
+}
+#features{
+padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.nav-link{
+font-size: 1.5rem;
+font-family: Montserrat-light;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+
+}
+#cta{
+    background-color: #ff4c68;
+    padding: 7% 15%;
+    color: #fff;
+}
+.social-icon{
+    margin: 20px 10px;
+}
